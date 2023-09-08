@@ -1,0 +1,78 @@
+.td{
+    background-color:rgb(58, 5, 107) ;
+    
+}
+.header{
+    text-align: center;
+    color:white;
+}
+#palau{
+    border: 2px solid ;
+    background-color:  #4aadd6;
+    width: 350px;
+    height: 200px;
+}
+#palau>div{
+    position: relative;
+    background-color: #ffde00;
+    border-radius: 50%;
+    width: 125px;
+    height: 125px;
+    margin-left:100px ;
+    top:37.5px ;
+
+}
+#china{
+    border: 2px solid black;
+    background-color: white;
+    width: 350px;
+    height: 200px;
+}
+#china>div{
+    position: relative;
+    background-color:rgb(188, 0, 45);
+    border-radius: 50%;
+    width: 125px;
+    height: 125px;
+    margin-left:100px ;
+    top:37.5px ;
+
+}
+#ukraine{
+    border: 2px solid black;
+    background-color: #ffd500;
+    width: 350px;
+    height: 200px;
+}
+#ukraine>div{
+    background-color: #005bbb;
+    width: 100%;
+    height: 100px;
+}
+#latvia{
+    border: 2px solid black;
+    background-color: rgb(158, 48, 57);
+    width: 350px;
+    height: 200px;
+}
+#latvia>div{
+    position: relative;
+    top: 70px;
+    background-color: white;
+    width: 100%;
+    height: 60px;
+}
+#nigeria{
+    border: 2px solid black;
+    background-color: rgb(0, 135, 81);
+    width: 350px;
+    height: 200px;
+}
+#nigeria>div{
+    position: relative;
+    background-color: white;
+    margin-left:116px ;
+     width: 118px;
+    height: 100%;
+}
+
